@@ -30,12 +30,11 @@
   position: relative;
   float: left;
   text-decoration: none;
-  color: #333333;
+  color: #f1a501;
+  font-weight: bold;
+  font-size: 30px;
 }
-.header .header_wrapper .logo img {
-  display: inline-block;
-  max-width: 100%;
-}
+
 .header .header_wrapper nav {
   display: flex;
   -webkit-box-align: center;

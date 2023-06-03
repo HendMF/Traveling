@@ -8,7 +8,7 @@ export const Header = () => {
     <div className="header">
       <div className="header_wrapper">
         <a href="" className="logo">
-          <img src="assets/home/logo.svg" alt="" />
+          Brand
         </a>
         <nav className = {isOpen ? "active" : ""}>
           <a href="">Destinations</a>
